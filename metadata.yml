@@ -1,0 +1,18 @@
+---
+:id: 105030456
+:submitters:
+- :name: Uriel Lopez
+  :email: ulopezve@berkeley.edu
+- :name: Suraj Shah
+  :email: surajshah@berkeley.edu
+- :name: Ronan Figueroa
+  :email: ronanfig@berkeley.edu
+- :name: Jackson Qi
+  :email: qijackson5@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-15 08:36:48.878690000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-15 00:36:48.878690000 Z
+:status: processed
+:score: 57.0
